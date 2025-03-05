@@ -1,0 +1,12 @@
+Ejercicio 2: Contar palabras y longitud promedio (Nivel Intermedio+)
+
+Enunciado:
+Solicita al usuario una frase y muestra:
+
+1. Cuántas palabras tiene la frase.
+
+
+2. La longitud promedio de las palabras.
+
+
+3. La palabra más larga de la frase.

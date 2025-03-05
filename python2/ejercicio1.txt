@@ -1,6 +1,0 @@
-Ejercicio 1: Operaciones con números y validación de entrada (Nivel Básico+)
-
-Enunciado:
-Escribe un programa que solicite dos números enteros. Si el usuario ingresa 
-algo que no sea un número, debe pedirle que lo ingrese nuevamente. Luego, 
-muestra la suma, resta, multiplicación y división con dos decimales.

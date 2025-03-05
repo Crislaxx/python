@@ -1,0 +1,5 @@
+Ejercicio 3: Generador de números Fibonacci dentro de un rango (Nivel Avanzado+)
+
+Enunciado:
+Pide al usuario dos números que representen un rango. Luego, genera la secuencia 
+de Fibonacci y muestra solo los números que están dentro del rango ingresado.
