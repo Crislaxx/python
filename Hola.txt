@@ -1,0 +1,2 @@
+Este modo sobre escribe todo el contenido.
+Esta linea es nueva.

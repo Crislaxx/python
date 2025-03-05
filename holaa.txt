@@ -1,0 +1,11 @@
+Hola Mundo
+crear una lista de supermercado
+* leche
+* huevo
+* pan
+* mantequilla
+* agua
+* sal 
+* arroz
+* azucar
+* frijol
