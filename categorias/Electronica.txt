@@ -1,0 +1,6 @@
+Nombre: the nigths
+Artista: Avicci
+Álbum: the nigths
+Duracion: 2.56
+Genero: Electronica
+------------------------------

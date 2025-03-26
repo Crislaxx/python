@@ -1,0 +1,5 @@
+Nombre: Payaso
+Artista: Jose Jose
+Álbum: Reflexiones
+Duracion: 3:00
+Genero: Romantico

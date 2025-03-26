@@ -1,0 +1,30 @@
+Nombre: Payaso
+Artista: Jose Jose
+Álbum: Reflexiones
+Duracion: 3:00
+Genero: Romantico
+------------------------------
+Nombre: salvame
+Artista: jose jose
+Álbum: reflexiones
+Duracion: 3:00
+Genero: romantico
+------------------------------
+Nombre: Volcan
+Artista: jose jose
+Álbum: reflexiones
+Duracion: 4:45
+Genero: romantico
+------------------------------
+Nombre: 40 Y 20
+Artista: jose jose
+Álbum: reflexiones
+Duracion: 3:25
+Genero: romantico
+------------------------------
+Nombre: 40 Y 20
+Artista: jose jose
+Álbum: reflexiones
+Duracion: 3:25
+Genero: romantico
+----------------------------------------
